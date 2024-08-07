@@ -1,5 +1,9 @@
 import React from "react";
 
+interface TodoListProps {
+    
+}
+
 const TodoList = () => {
     return <div className="overflow-x-auto">
         <table className="table">
